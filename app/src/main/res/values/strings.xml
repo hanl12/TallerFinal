@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Universities</string>
+    <string name="tvTitle">UNIVERSIDADES DE COLOMBIA</string>
+    <string name="btnSaveUni">REGISTRAR UNIVERSIDAD</string>
+    <string name="btnUniList">LISTADO DE UNIVERSIDADES</string>
+    <string name="btnMap">VER MAPA</string>
+    <string name="btnExit">SALIR</string>
+    <string name="tvSaveUni">REGISTRAR UNIVERSIDAD</string>
+    <string name="tvCode">Código</string>
+    <string name="tvName">Nombre</string>
+    <string name="tvCity">Ciudad</string>
+    <string name="tvAdress">Dirección</string>
+    <string name="tvLatitude">Latitud</string>
+    <string name="tvLongitude">Longitud</string>
+    <string name="tvDescription">Descripción</string>
+    <string name="tvDepartment">Departamento</string>
+    <string name="btnSave">REGISTRAR</string>
+    <string name="tvUpdate">CONSULTAR UNIVERSIDAD</string>
+    <string name="btnEdit">EDITAR</string>
+    <string name="btnDelete">BORRAR</string>
+    <string name="btnBack">VOLVER</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
